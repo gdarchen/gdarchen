@@ -27,8 +27,6 @@
 - 📚 Always learning new things
 - 💪 I love running, hiking, biking, and working out
 
-<br>
-
 ## 🛠️ My toolbox
 
 ### 👨‍💻 Languages
