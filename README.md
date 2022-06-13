@@ -1,4 +1,10 @@
-<!-- color=#E5677F -->
+<!--
+    References:
+    -----------
+
+    color=#E5677F
+    badge icons: https://simpleicons.org/
+-->
 
 <h1 align="center">Hi, I'm Gautier Darchen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
@@ -96,6 +102,10 @@
     <img alt="Serverless" src="https://img.shields.io/badge/Serverless-FD5750.svg?logo=serverless&logoColor=white">
     <!-- Spring -->
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white">
+    <!-- Vite -->
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white">
+    <!-- Webpack -->
+    <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=white">
     <details>
         <summary>Others</summary>
         <!-- Angular -->
@@ -149,10 +159,14 @@
     <img alt="Mac OS" src="https://img.shields.io/badge/Mac%20OS-000000.svg?logo=apple&logoColor=white">
     <!-- Notion -->
     <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
+    <!-- npm -->
+    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white">
     <!-- Postman -->
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
     <!-- Visual Studio Code -->
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     <!-- Windows -->
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white">
+    <!-- Yarn -->
+    <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white">
 </p>
