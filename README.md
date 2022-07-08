@@ -26,7 +26,7 @@
 
 ## 💁‍♂️ About me
 
-- 🧑‍💻 I am a senior `FullStack Engineer` at [Swile](https://swile.co)
+- 🧑‍💻 I am a senior `Full-stack Engineer` at [Swile](https://swile.co)
 - 🎓 `Engineering degree` from [INSA Rouen](https://www.insa-rouen.fr/) in 2018, specialized in Architecture Information Systems
 - 🌟 Favorite topics: `React`, `Node.js`, `DevOps`, `Serverless`
 - 🔗 You can learn more about me and download my résumé on [my website](https://gdarchen.github.io/)
