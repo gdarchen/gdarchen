@@ -28,7 +28,7 @@
 
 - 🧑‍💻 I am a `Senior Software Engineer` at [Swile](https://swile.co)
 - 🎓 `Engineering degree` from [INSA Rouen](https://www.insa-rouen.fr/) in 2018, specialized in Architecture Information Systems
-- 🌟 Favorite topics: `React`, `Node.js`, `DevOps`, `Serverless`
+- 🌟 Favorite topics: `React`, `Next.js`, `TypeScript`, `Node.js`, `DevOps`
 - 🔗 You can learn more about me and download my résumé on [my website](https://gautierdarchen.fr/)
 - 📚 Always learning new things
 - 💪 I love running, hiking, biking, and working out
