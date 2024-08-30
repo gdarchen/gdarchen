@@ -26,7 +26,7 @@
 
 ## 💁‍♂️ About me
 
-- 🧑‍💻 I am a `Senior Software Engineer` at [Swile](https://swile.co)
+- 🧑‍💻 I am a `Senior Software Engineer` at [Contentsquare](https://contentsquare.com/)
 - 🎓 `Engineering degree` from [INSA Rouen](https://www.insa-rouen.fr/) in 2018, specialized in Architecture Information Systems
 - 🌟 Favorite topics: `React`, `Next.js`, `TypeScript`, `Node.js`, `DevOps`
 - 🔗 You can learn more about me and download my résumé on [my website](https://gautierdarchen.fr/)
