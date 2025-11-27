@@ -36,3 +36,12 @@
 ## 🛠️ My toolbox
 
 ![Toolbox](https://skillicons.dev/icons?i=ts,react,next,nodejs,nest,graphql,java,github,vite,aws,kubernetes,tailwind&perline=6)
+
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=gdarchen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=3b82f6&icon_color=3b82f6&text_color=959598&bg_color=9ca3af00" />
+</p>
+<p>
+  <img align="" width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=gdarchen&theme=nord&color=3b82f6&point=3b82f6&hide_border=true&line=959598&title_color=3b82f6&icon_color=3b82f6&text_color=959598&bg_color=9ca3af00" />
+</p>
